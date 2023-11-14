@@ -3,7 +3,7 @@
 
 **Use CogniSwitch to build production ready applications that can consume, organize and retrieve knowledge flawlessly. Using the framework of your choice, in this case Langchain CogniSwitch helps alleviate the stress of decision making when it comes to, choosing the right storage and retrieval formats. It also eradicates reliability issues and hallucinations when it comes to responses that are generated. Get started by interacting with your knowledge in just two simple steps.**
 
-Visit [https://www.cogniswitch.ai/developer to register](https://www.cogniswitch.ai/developer?utm_source=langchain&utm_medium=langchainbuild&utm_id=dev)
+Visit [https://www.cogniswitch.ai/developer](https://www.cogniswitch.ai/developer?utm_source=langchain&utm_medium=langchainbuild&utm_id=dev) to register
 
 **Registration:** 
 - Signup with your email and verify your registration 
