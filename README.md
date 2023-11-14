@@ -9,16 +9,16 @@ Visit [https://www.cogniswitch.ai/developer](https://www.cogniswitch.ai/develope
 - Signup with your email and verify your registration 
 - You will get a mail with a platform token and oauth token for using the services.
 
-**step 1: Cogniswitch Store Chain:** 
+**Step 1: Cogniswitch Store Chain:** 
 - Use your cogniswitch token, openAI API key, oauth token and your file or URL to run the chain.  
 - it will be processed and stored in your knowledge store.  - you can check the status of document processing in cogniswitch console. 
 
-**step 2: Cogniswitch Answer Chain:**
+**Step 2: Cogniswitch Answer Chain:**
 - Use your cogniswitch token, openAI API key, oauth token and your question to run the chain.  
 - You will get the answer from your knowledge as the response. 
 
 ## Customize your own cogniswitch chain
 
-- In order to use the cogniswitch chains you need to get the "cognichain" folder from the repository and put it in the same directory as this notebook and import the chains as shown below.
+- In order to use the cogniswitch chains you need to get the "cognichain" folder from the repository and put it in the same directory as notebook and import the chains as shown in the notebook.
 
-**Use the example notebook to try the cogniswitch chains from [here](https://github.com/CogniSwitch/CogniChain/blob/main/notebooks/cogniswitch_chains.ipynb)**
+**Use this example notebook to try the cogniswitch chains from [here](https://github.com/CogniSwitch/CogniChain/blob/main/notebooks/cogniswitch_chains.ipynb)**
