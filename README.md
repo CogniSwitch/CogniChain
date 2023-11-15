@@ -7,14 +7,16 @@ Visit [https://www.cogniswitch.ai/developer](https://www.cogniswitch.ai/develope
 
 **Registration:** 
 - Signup with your email and verify your registration 
-- You will get a mail with a platform token and oauth token for using the services.
+- You will get a mail with a platform token and OAuth token for using the services.
 
 **Step 1: Cogniswitch Store Chain:** 
-- Use your cogniswitch token, openAI API key, oauth token and your file or URL to run the chain.  
-- it will be processed and stored in your knowledge store.  - you can check the status of document processing in cogniswitch console. 
+- Use your cogniswitch token, openAI API key, OAuth token and your file or URL to run the chain.
+- Currently we support PDF(.pdf), Word(.docx, .doc), text(.txt), HTML(.html) file formats. (more formats are coming)  
+- it will be processed and stored in your knowledge store.  
+- you can check the status of document processing in cogniswitch console. 
 
 **Step 2: Cogniswitch Answer Chain:**
-- Use your cogniswitch token, openAI API key, oauth token and your question to run the chain.  
+- Use your cogniswitch token, openAI API key, OAuth token and your question to run the chain.  
 - You will get the answer from your knowledge as the response. 
 
 ## Customize your own cogniswitch chain
