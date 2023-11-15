@@ -1,5 +1,5 @@
 # CogniChain
-## Use CogniSwitch with LangChain
+## [Use CogniSwitch with LangChain](https://github.com/CogniSwitch/CogniChain#use-cogniswitch-with-langchain)
 
 No GenAI experience required! Skip the classroom and courses and get started on building your own GenAI applications using CogniSwitch. Using its unique automated pipeline, CogniSwitch helps developers build GenAI applications by: 
 
@@ -33,7 +33,7 @@ Learn more about CogniSwitch: [https://www.cogniswitch.ai/developer](https://www
 - Use your CogniSwitch token, OpenAI API key, OAuth token and your question to run the chain. 
 - You will get the answer from your knowledge as the response. 
 
-## Customize your own CogniSwitch chain 
+## [Customize your own CogniSwitch chain](https://github.com/CogniSwitch/CogniChain#customize-your-own-cogniswitch-chain)
 - In order to use the CogniSwitch chains you need to get the "CogniChain" folder from the repository and put it in the same directory as notebook and import the chains as shown in the [notebook](https://github.com/CogniSwitch/CogniChain/blob/main/notebooks/cogniswitch_chains.ipynb). 
 
 **Use this example notebook to try the cogniswitch chains from [here](https://github.com/CogniSwitch/CogniChain/blob/main/notebooks/cogniswitch_chains.ipynb)**
